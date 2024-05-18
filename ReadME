@@ -1,0 +1,7 @@
+Node.js: For the server-side runtime environment.
+Express.js: For the web framework.
+MongoDB: For the database.
+Mongoose: For MongoDB object modeling.
+bcryptjs: For hashing passwords.
+nodemailer: For sending emails (for 2FA).
+Speakeasy: For generating and verifying 2FA tokens
